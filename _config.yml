@@ -1,16 +1,11 @@
-# Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
+#description used for seo
+title: 不冷丁的博客
+subtitle: 一个爱捣鼓的技术迷
+description: chrome chromium content webkit 数码 技术 手机
+author: 不冷丁
+language: zh-CN
+timezone: Asia/Shanghai
 
-# Site
-title: 不冷丁同学的博客
-subtitle: 不冷丁同学
-description: 
-author: bulengding
-language: zh-Hans #中文简体
-timezone:
-
-# URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.loveplum.cn
 root: /
@@ -34,7 +29,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true    // generate a seperate folder in assets when a new post is setup
 relative_link: false
 future: true
 highlight:
@@ -63,7 +58,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+#theme: freemind
+theme: bootstrap-blog
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

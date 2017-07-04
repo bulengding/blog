@@ -7,3 +7,6 @@
 [submodule "themes/corporate"]
 	path = themes/corporate
 	url = https://github.com/ptsteadman/hexo-theme-corporate.git
+[submodule "themes/freemind"]
+	path = themes/freemind
+	url = https://github.com/wzpan/hexo-theme-freemind.git
