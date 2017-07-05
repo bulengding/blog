@@ -58,8 +58,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-#theme: freemind
-theme: bootstrap-blog
+#theme: freemind // 马马虎虎，带了分类跟标签系统
+#theme: bootstrap-blog // 最简单的bootstrap样式的博客
+theme: jacman // blog带大纲模式的
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
