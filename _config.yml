@@ -1,7 +1,7 @@
 #description used for seo
 title: 不冷丁的博客
-subtitle: 一个爱捣鼓的技术迷
-description: chrome chromium content webkit 数码 技术 手机
+subtitle: 关注架构设计 C++技巧 脚本自动化 web技术发展 科技趋势
+description: chrome chromium content webkit 不冷丁 架构设计 C++技巧 脚本自动化 web技术发展 科技趋势
 author: 不冷丁
 language: zh-CN
 timezone: Asia/Shanghai
@@ -23,13 +23,13 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :year-:month-:day-:title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: true    // generate a seperate folder in assets when a new post is setup
+post_asset_folder: false  #generate a seperate folder in assets when a new post is setup
 relative_link: false
 future: true
 highlight:
@@ -60,7 +60,8 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 #theme: freemind // 马马虎虎，带了分类跟标签系统
 #theme: bootstrap-blog ## 最简单的bootstrap样式的博客
-theme: jacman ## blog带大纲模式的
+#theme: jacman ## blog带大纲模式的
+theme: my_jacman ## 在jacman的基础上改的。
 #theme_config:   ## override theme config in theme directory's _config.yml
 
 # Deployment
