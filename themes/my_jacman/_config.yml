@@ -82,10 +82,9 @@ links:
   #码农圈: https://coderq.com,一个面向程序员交流分享的新一代社区
   #Jark's Blog: http://wuchong.me
 
-
-
 #### Comment
 duoshuo_shortname:    ## e.g. wuchong   your duoshuo short name.
+youyan_uid: 2137958
 disqus_shortname:     ## e.g. wuchong   your disqus short name.
 gentie_key:           ## your 163 gentie key, see https://gentie.163.com/
 
