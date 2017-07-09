@@ -1,3 +1,3 @@
 import os
 
-os.system("hexo deploy")
+os.system("hexo deploy --generate")
