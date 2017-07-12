@@ -93,7 +93,7 @@ class Exporter(Analyzer):
     def getCategorys(self, detail):
         categorys_html = html2text.html2text(detail.find_all(class_='category_r')[0].prettify()) 
         category_list = categorys_html.split(u'\n')
-        ret_list = [u'从csdn导出']
+        ret_list = []
         for category_item in category_list :
             index1 = category_item.find(u' _ （')
             if (index1 > 0) :
@@ -112,6 +112,8 @@ class Exporter(Analyzer):
         f.write('date: ' + self.getPrettyCompletePostDate(detail) + '\n')
         f.write('tags: ' + '\n')
         f.write(u'  - 从csdn导出' + u'\n')
+        for category_item in category_list:
+            f.write('  - ' + category_item + '\n')
         f.write('categories: '  + '\n')
         for category_item in category_list:
             f.write('  - ' + category_item + '\n')

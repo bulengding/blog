@@ -4,9 +4,9 @@ title: "windows xp DHCP 导致启动时间加长 解决方案"
 date: 2009-07-26 17:48
 tags: 
   - 从csdn导出
+  - 电脑与服务器配置
 categories: 
-  - 从csdn导出
-  - 电脑及服务器配置
+  - 电脑与服务器配置
 ---
 
 logon.bat: netsh interface ip set address name="本地连接" source=dhcp

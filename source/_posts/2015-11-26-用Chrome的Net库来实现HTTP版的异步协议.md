@@ -4,9 +4,12 @@ title: "用Chrome的Net库来实现HTTP版的异步协议"
 date: 2015-11-26 18:49
 tags: 
   - 从csdn导出
-categories: 
-  - 从csdn导出
   - windows
+  - chromium
+  - ie
+  - 异步协议
+  - 异步可插入协议
+categories: 
   - chromium
 ---
 

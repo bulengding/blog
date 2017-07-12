@@ -4,8 +4,8 @@ title: "在linux下为 git socks5 proxy"
 date: 2014-11-09 16:01
 tags: 
   - 从csdn导出
+  - 项目工程管理
 categories: 
-  - 从csdn导出
   - 项目工程管理
 ---
 

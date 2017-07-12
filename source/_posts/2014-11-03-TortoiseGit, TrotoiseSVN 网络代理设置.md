@@ -4,8 +4,8 @@ title: "TortoiseGit, TrotoiseSVN 网络代理设置"
 date: 2014-11-03 10:44
 tags: 
   - 从csdn导出
+  - 项目工程管理
 categories: 
-  - 从csdn导出
   - 项目工程管理
 ---
 

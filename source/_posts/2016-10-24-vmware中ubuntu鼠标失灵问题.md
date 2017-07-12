@@ -7,7 +7,7 @@ tags:
   - ubuntu
   - 鼠标失灵
 categories:
-  - 电脑与服务器维护
+  - 电脑与服务器配置
 ---
 
 几次遇到vmware里面ubuntu界面卡死的情况，对此系统不熟，

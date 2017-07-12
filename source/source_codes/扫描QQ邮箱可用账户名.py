@@ -83,7 +83,7 @@ def IncreaseString(string_source = "") :
           return tmp1 + last_increased
 
 
-string_out = "aa"
+string_out = "caaaa"
 
 
 while(True):
