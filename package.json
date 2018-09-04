@@ -14,6 +14,8 @@
     "hexo-renderer-ejs": "^0.2.0",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-renderer-marked": "^0.2.10",
+	"hexo-renderer-jade": "",
+	"hexo-renderer-sass": "",
     "hexo-server": "^0.2.0",
 	"hexo-deployer-git": "",
 	"hexo-tag-bootstrap": "^0.0.8",

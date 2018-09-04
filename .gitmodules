@@ -13,3 +13,12 @@
 [submodule "themes/jacman"]
 	path = themes/jacman
 	url = https://github.com/wuchong/jacman.git
+[submodule "themes/maupassant-hexo"]
+	path = themes/maupassant-hexo
+	url = https://github.com/tufu9441/maupassant-hexo.git
+[submodule "themes/hexo-theme-indigo"]
+	path = themes/hexo-theme-indigo
+	url = https://github.com/yscoder/hexo-theme-indigo.git
+[submodule "themes/hexo-theme-pure"]
+	path = themes/hexo-theme-pure
+	url = https://github.com/cofess/hexo-theme-pure.git

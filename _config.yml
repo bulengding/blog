@@ -60,13 +60,14 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 #theme: freemind ## 马马虎虎，带了分类跟标签系统
 #theme: bootstrap-blog ## 最简单的bootstrap样式的博客
+theme: maupassant-hexo
 #theme: jacman ## blog带大纲模式的
-theme: my_jacman ## 在jacman的基础上改的。
+#theme: maupassant-hexo ## 在jacman的基础上改的。
 #theme_config:   ## override theme config in theme directory's _config.yml
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://git.coding.net/bulengding/bulengding.git
+  repository: https://github.com/bulengding/bulengding.github.io.git
   branch: master
