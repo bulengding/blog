@@ -7,7 +7,7 @@ language: zh-CN
 timezone: Asia/Shanghai
 
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.loveplum.cn
+url: https://bulengding.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
