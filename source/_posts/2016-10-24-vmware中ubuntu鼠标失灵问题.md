@@ -3,11 +3,9 @@ layout: post
 title: "vmware中ubuntu鼠标失灵问题"
 date: 2016-09-13 00:00:00 +0000
 tags: 
-  - vmware
-  - ubuntu
-  - 鼠标失灵
-categories:
-  - 电脑与服务器配置
+  - 技巧
+categories: 
+  - 技术
 ---
 
 几次遇到vmware里面ubuntu界面卡死的情况，对此系统不熟，

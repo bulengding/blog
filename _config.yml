@@ -1,7 +1,7 @@
 #description used for seo
 title: 不冷丁的博客
-subtitle: 关注架构设计 C++技巧 脚本自动化 web技术发展 科技趋势
-description: chrome chromium content webkit 不冷丁 架构设计 C++技巧 脚本自动化 web技术发展 科技趋势
+subtitle: 理想、技术、生活、心得
+description:
 author: 不冷丁
 language: zh-CN
 timezone: Asia/Shanghai
@@ -58,9 +58,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-#theme: freemind ## 马马虎虎，带了分类跟标签系统
+theme: freemind ## 马马虎虎，带了分类跟标签系统
 #theme: bootstrap-blog ## 最简单的bootstrap样式的博客
-theme: maupassant-hexo
+#theme: maupassant-hexo ## 简单白
 #theme: jacman ## blog带大纲模式的
 #theme: maupassant-hexo ## 在jacman的基础上改的。
 #theme_config:   ## override theme config in theme directory's _config.yml
