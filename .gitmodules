@@ -22,3 +22,6 @@
 [submodule "themes/hexo-theme-pure"]
 	path = themes/hexo-theme-pure
 	url = https://github.com/cofess/hexo-theme-pure.git
+[submodule "themes/yelog"]
+	path = themes/yelog
+	url = https://github.com/yelog/hexo-theme-3-hexo.git
